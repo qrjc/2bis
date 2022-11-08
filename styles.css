@@ -179,7 +179,7 @@ ol{
     }
     100%{
 
-        transform: translate(35%, 0vh);
+        transform: translate(35%, -20px);
         scale: 2
 
     }
